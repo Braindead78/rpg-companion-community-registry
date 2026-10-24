@@ -3498,5 +3498,23 @@
     "github_repo": "bananaramen670/Deep-Crow-Life-Stages-Tethered-Banshee-Race",
     "repo_url": "https://bananaramen670.github.io/Deep-Crow-Life-Stages-Tethered-Banshee-Race/",
     "has_system": false
+  },
+  {
+    "name": "dragonrider-class",
+    "description": "a new class around the cocept of a dragonrider and a new race about a race with many diffirences ",
+    "tags": [
+      "5e",
+      "homebrew",
+      "class",
+      "race"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "8nj8rr6dm5-hue/dragonrider-class",
+    "repo_url": "https://8nj8rr6dm5-hue.github.io/dragonrider-class/",
+    "has_system": false
   }
 ]
